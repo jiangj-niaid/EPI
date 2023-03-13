@@ -11,7 +11,7 @@ Features
 2.	Identify the epitope sites (common or frequently contact sites on RBD surface)
 3.	Analysis the contacted amino acids of antibody in binding to Epitope Sites (ES) on the RBD
 4.	Statistical analysis the CDR loops contributions
-5.	Clustering analysis and identify the binding motifs of antibody
+5.	Clustering analysis based on ES and identify the binding motifs of antibody
 6.	Write out Pymol scripts for graphical display
 7.	The user can make query the epitope-paratope interaction data for a specific antibody/pdb-id/class/ES-sites, and ask for the similar antibody those bind to the same ES sites for comparison
 
