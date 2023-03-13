@@ -1,4 +1,4 @@
-# EPI - Epitope-Paratope Interaction ![image](https://user-images.githubusercontent.com/75588673/224588219-5080cb8f-83c0-4d87-86ac-88bada48967d.png)
+# EPI ![image](https://user-images.githubusercontent.com/75588673/224588219-5080cb8f-83c0-4d87-86ac-88bada48967d.png)
 
 Description
 
@@ -16,3 +16,11 @@ Features
 7.	The user can make query the epitope-paratope interaction data for a specific antibody/pdb-id/class/ES-sites, and ask for the similar antibody those bind to the same ES sites for comparison
 
 ![image](https://user-images.githubusercontent.com/75588673/224588369-bad6d523-0867-471a-9967-b2e40d6c88d1.png)
+
+Documentation
+
+Further Reading
+
+Acknowledgements
+
+![image](https://user-images.githubusercontent.com/75588673/224588575-0feb7e83-38e0-4d45-ac55-ccfcfec8612d.png)
