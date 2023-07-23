@@ -10,7 +10,7 @@ To analysis the binding interface of antibody/nanobody in complex with Receptor 
 
 # Features
 
-1.	For a giving list of antibody and spike structures (pdb ids) that are downloaded from PDB,  we compute the contacted interface (the distance is cut-off 5.0 angstroms), build up a sub-database as the bases for further analysis
+1.	For a giving list of antibody and spike structures (pdb ids),  we compute the contacted interface, build up a epitope-paratope interation dataset
 2.	Identify the epitope sites (common or frequently contact sites on RBD surface)
 3.	Analysis the contacted amino acids of antibody in binding to Epitope Sites (ES) on the RBD
 4.	Statistical analysis the CDR loops contributions
