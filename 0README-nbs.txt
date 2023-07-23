@@ -14,7 +14,7 @@ PREPARE:
 RUN:
 A. perl ../Scripts/evaluate-dis-v2.pl 83nbs-pdbid.txt >& run-nbs.log &  (may take 10-15 minutes)
 B. csh ../Scripts/run-post-process-dis-nbs.csh nbs 83nbs (this generate the data set - 83nbs-contact-dis+fcs+cdr-date.txt)
-C. csh ../Scripts/run-v7-examples.csh nbs 83nbs-contact-dis+fcs+cdr-0116.txt 83nbs-$date
+C. csh ../Scripts/run-v7-examples.csh nbs 83nbs-contact-dis+fcs+cdr-0116.txt 83nbs
 
 /var/folders/v4/89n_d6bj4wd3_vy_km8gt9pscj16n9/T/TemporaryItems/(A Document Being Saved By screencaptureui 10)/Screen Shot 2023-02-28 at 7.03.31 PM.png
 BSA:

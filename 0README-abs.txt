@@ -1,6 +1,6 @@
 0.README
 
-This is for the 340abs data set, H-chains and L-chains separate runs
+This is for the 340abs data set, H-chains and L-chains need separate runs
 
 PREPARE:
 
@@ -14,12 +14,12 @@ PREPARE:
 
 RUN:
 
-A. perl ../Scripts/evaluate-dis-v2.pl 340abs-pdbid.txt HorL >& run-abs-date.log &  (may take 45-60 minutes)
+A. perl ../Scripts/evaluate-dis-v2.pl 340abs-pdbid.txt HorL >& run-abs-date.log &  (may take 30-45 minutes on a Mac laptop)
 
 B. csh ../Scripts/run-post-process-dis.csh absH|absL 340absH|340absL
 	(make sure change the name of "cntact" to "cntctH or cntctL")
 
-C. csh ../Scripts/run-v7-examples.csh abs 340absH-contact-dis+fcs+cdr-fix-$date.txt 340abs-$date.
+C. csh ../Scripts/run-v7-examples.csh abs 340absH-contact-dis+fcs+cdr-fix-$date.txt 340absH
 	(340absH or 340absL or 340absA)
 
 BSA:
