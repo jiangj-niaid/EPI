@@ -20,7 +20,7 @@ To analysis the binding interface of antibody/nanobody in complex with Receptor 
 
 # References
 Jiang, J. et al. "SARS-CoV-2 antibodies recognize 23 distinct epitopic sites on the receptor binding domain", **Nat.Commun.Biol.** 2023.
-https://doi.org/10.21203/rs.3.rs-2800118/v1
+Preprint at Research Square: https://doi.org/10.21203/rs.3.rs-2800118/v1
 
 
 # Further Reading
