@@ -18,8 +18,8 @@ To analysis the binding interface of antibody/nanobody in complex with Receptor 
 7.	The user can make query the epitope-paratope interaction data for a specific antibody/pdb-id/class/ES-sites, and ask for the similar antibody those bind to the same ES sites for comparison
 
 # References
-Jiang, J. et al. "SARS-CoV-2 antibodies recognize 23 distinct epitopic sites on the receptor binding domain", **Nat.Commun.Biol.**, 2023.
-Preprint at Research Square: https://doi.org/10.21203/rs.3.rs-2800118/v1
+Jiang, J. et al. "SARS-CoV-2 antibodies recognize 23 distinct epitopic sites on the receptor binding domain", **Nat.Commun.Biol., 6, 953, 2023**.
+(https://www.nature.com/articles/s42003-023-05332-w)
 
 # Documentations
 
